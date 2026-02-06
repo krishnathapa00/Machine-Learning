@@ -1,0 +1,17 @@
+# Ignore virtual environments
+ml-env/
+.venv/
+
+# Ignore Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore data files (optional, if you have large datasets)
+data/
