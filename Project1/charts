@@ -1,0 +1,11 @@
+# 3 step formula.
+ASK YOURSELVES:
+1.are X & y are numeric?- scatter plot
+2. is there a linear relationship between X & y?- scatter plot
+3. is there a linear relationship between X & y?- scatter plot with line of best fit
+
+4.is one column a category?- bar chart/count plot
+
+5.want to see the distribution of a distribution?- histogram/box plot/kde plot.
+
+
